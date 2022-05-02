@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32328.378
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SEDC.Advance.WorkShop.TaxiManager9000.app", "SEDC.Advance.WorkShop.TaxiManager9000.app\SEDC.Advance.WorkShop.TaxiManager9000.app.csproj", "{02B222A2-8F7C-40C1-9136-DBDBEE996D67}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TaxiManager9000.Data", "TaxiManager9000.Data\TaxiManager9000.Data.csproj", "{95B9691E-AC26-405D-85F2-A89AC212ED54}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TaxiManager9000.Models", "TaxiManager9000.Models\TaxiManager9000.Models.csproj", "{D2944643-8B56-4E3B-AD21-0E9E3CAAE202}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TaxiManager9000.Services", "TaxiManager9000.Services\TaxiManager9000.Services.csproj", "{A39B011F-0E18-4800-9428-784DD3C3D1AF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{02B222A2-8F7C-40C1-9136-DBDBEE996D67}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{02B222A2-8F7C-40C1-9136-DBDBEE996D67}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{02B222A2-8F7C-40C1-9136-DBDBEE996D67}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{02B222A2-8F7C-40C1-9136-DBDBEE996D67}.Release|Any CPU.Build.0 = Release|Any CPU
+		{95B9691E-AC26-405D-85F2-A89AC212ED54}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{95B9691E-AC26-405D-85F2-A89AC212ED54}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{95B9691E-AC26-405D-85F2-A89AC212ED54}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{95B9691E-AC26-405D-85F2-A89AC212ED54}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D2944643-8B56-4E3B-AD21-0E9E3CAAE202}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D2944643-8B56-4E3B-AD21-0E9E3CAAE202}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D2944643-8B56-4E3B-AD21-0E9E3CAAE202}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D2944643-8B56-4E3B-AD21-0E9E3CAAE202}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A39B011F-0E18-4800-9428-784DD3C3D1AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A39B011F-0E18-4800-9428-784DD3C3D1AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A39B011F-0E18-4800-9428-784DD3C3D1AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A39B011F-0E18-4800-9428-784DD3C3D1AF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AFCC49DE-FEA4-4B98-9253-001F82B070CD}
+	EndGlobalSection
+EndGlobal
